@@ -1,6 +1,9 @@
 # Presentation Coach
 
 발표 코치는 사용자가 실시간 피드백과 분석을 통해 발표를 연습할 수 있도록 도와주는 웹입니다.
+<img width="1609" alt="test01" src="https://github.com/user-attachments/assets/3839ae50-822f-49fd-be7b-9a9166354f86" />
+<img width="1584" alt="test02" src="https://github.com/user-attachments/assets/b27ea9e5-c7ec-443c-bfb5-4bbb9fe044ba" />
+<img width="1044" alt="test03" src="https://github.com/user-attachments/assets/11929e0d-e8ae-4832-aca5-0201031a069b" />
 
 ## 기능
 
